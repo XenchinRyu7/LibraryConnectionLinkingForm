@@ -1,3 +1,5 @@
+penggunaan di project properties --> libraries --> add project --> pilih ke project ini
+
 untuk koneksi database gunakan 
 KoneksiDatabase koneksi = new KoneksiDatabase("jdbc:mysql://localhost:3306/namadatabase");
 
